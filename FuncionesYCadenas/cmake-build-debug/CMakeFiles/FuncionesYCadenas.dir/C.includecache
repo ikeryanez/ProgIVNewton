@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ikeryanez/CLionProjects/FuncionesYCadenas/funciones.c
+funciones.h
+/Users/ikeryanez/CLionProjects/FuncionesYCadenas/funciones.h
+stdio.h
+-
+
+/Users/ikeryanez/CLionProjects/FuncionesYCadenas/funciones.h
+
+/Users/ikeryanez/CLionProjects/FuncionesYCadenas/main.c
+stdio.h
+-
+stdlib.h
+-
+funciones.h
+/Users/ikeryanez/CLionProjects/FuncionesYCadenas/funciones.h
+

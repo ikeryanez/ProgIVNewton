@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Funciones"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Funciones">
+				<Option output="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Funciones" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ikeryanez/CLionProjects/Funciones/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Funciones"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Funciones/fast">
+				<Option output="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Funciones" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ikeryanez/CLionProjects/Funciones/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 Funciones/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ikeryanez/CLionProjects/Funciones/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ikeryanez/CLionProjects/Funciones/funciones.c">
+			<Option target="Funciones"/>
+		</Unit>
+		<Unit filename="/Users/ikeryanez/CLionProjects/Funciones/funciones.h">
+			<Option target="Funciones"/>
+		</Unit>
+		<Unit filename="/Users/ikeryanez/CLionProjects/Funciones/main.c">
+			<Option target="Funciones"/>
+		</Unit>
+		<Unit filename="/Users/ikeryanez/CLionProjects/Funciones/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
