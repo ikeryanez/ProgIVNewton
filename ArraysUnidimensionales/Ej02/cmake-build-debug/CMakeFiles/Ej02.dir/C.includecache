@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ikeryanez/CLionProjects/NewtonProgIV/ArraysUnidimensionales/Ej02/funciones.c
+funciones.h
+/Users/ikeryanez/CLionProjects/NewtonProgIV/ArraysUnidimensionales/Ej02/funciones.h
+
+/Users/ikeryanez/CLionProjects/NewtonProgIV/ArraysUnidimensionales/Ej02/funciones.h
+stdio.h
+-
+
+/Users/ikeryanez/CLionProjects/NewtonProgIV/ArraysUnidimensionales/Ej02/main.c
+stdio.h
+-
+funciones.h
+/Users/ikeryanez/CLionProjects/NewtonProgIV/ArraysUnidimensionales/Ej02/funciones.h
+

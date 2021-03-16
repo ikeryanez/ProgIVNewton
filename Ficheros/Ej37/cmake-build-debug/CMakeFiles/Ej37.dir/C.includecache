@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ikeryanez/CLionProjects/NewtonProgIV/Ficheros/Ej37/main.c
+stdio.h
+-
+stdlib.h
+-
+
